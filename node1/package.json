@@ -1,0 +1,14 @@
+{
+  "name": "node1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Orjuela",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
