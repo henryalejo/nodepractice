@@ -9,6 +9,7 @@
   "author": "Henry Orjuela",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.3",
     "http": "0.0.0"
   }
 }
